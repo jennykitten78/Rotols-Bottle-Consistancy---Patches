@@ -1,2 +1,2 @@
-# Rotols-Bottle-Consistancy---Patches
+# Rotols-Bottle-Consistency---Patches
  
